@@ -6,7 +6,7 @@ The project demonstrates end-to-end frontend–backend integration with proper C
 ---
 
 ## 🚀 Live Demo
-👉 (Add your Amplify URL here)
+👉 https://main.d3vdksth6q358t.amplifyapp.com/
 
 ---
 
